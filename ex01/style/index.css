@@ -1,0 +1,19 @@
+h2{
+    color: red;
+    text-align: center;
+}
+h5{
+    margin-left: 15%;
+    color:turquoise;
+}
+
+p{
+    margin-left: 15%;
+    text-align: justify;
+    width: 71%;
+}
+img{
+    margin-left: 12.5%;
+    width:75%;
+    height:170;
+}
